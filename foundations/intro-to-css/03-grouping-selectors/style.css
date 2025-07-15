@@ -1,0 +1,16 @@
+/*styles.css*/
+
+.button1{
+    background-color: green;
+    color: #FFFFFF;
+}
+
+.button2{
+    background-color: rgb(255,255,0);
+}
+
+.button1,
+.button2{
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
