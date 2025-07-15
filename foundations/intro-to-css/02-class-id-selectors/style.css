@@ -1,0 +1,10 @@
+/*style.css*/
+
+.style-text {
+    background-color: hsl(350,100%,75%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.style-text.style-text-font{
+    font-size: 24px;
+}
