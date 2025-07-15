@@ -5,6 +5,16 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.style-text.style-text-font{
+.style-text-font{
     font-size: 24px;
+}
+
+#container-1{
+    font-size: 36px;
+    color: rgb(0,0,255);
+}
+
+#container-2{
+    background-color: #90ee90;
+    font-weight: 700;
 }
